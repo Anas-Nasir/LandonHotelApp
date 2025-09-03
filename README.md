@@ -1,5 +1,10 @@
 # LandonHotelApp
 
+## Motivation
+I was motivated to create this project to gain hands-on experience building a full-stack application with both a Java Spring Boot backend and an Angular frontend. The project allowed me to explore multithreading, localization and internationalization, currency handling,and time zone conversions, all within a real-world scenario of hotel scheduling.
+
+Additionally, I wanted to learn how to containerize an application using Docker and prepare it for deployment in cloud environments. This project serves as a portfolio-ready demonstration of my ability to design, develop, and deploy full-stack applications while applying best practices in software engineering.
+
 ## Description
 Enhanced hotel scheduling application with multithreaded language support, time zone conversion, currency display, and Docker deployment
 
@@ -13,7 +18,7 @@ Enhanced hotel scheduling application with multithreaded language support, time 
 
 ### Prerequisites
 
-git clone <your-repo-url>
+git clone <repo-url>
 cd LandonHotelScheduler
 
 ./mvnw clean install
